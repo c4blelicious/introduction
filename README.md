@@ -1,7 +1,7 @@
 # Introduction
 A little Introduction about who I am and what I aspire to achieve.
 
-Hello, my Name is Mirac alias @c4blelicious.
+Hello, my Name is Mirac alias @m1nctech.
 I'm currently 19 years of age and I live in Germany.
 
 Learning Python is the first step I chose to take for my upcoming career-change in the future. My goal is to become a skilled and reliable Software-Developer.
